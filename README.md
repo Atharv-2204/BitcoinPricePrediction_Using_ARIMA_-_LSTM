@@ -2,6 +2,7 @@
   This project focuses on predict the price of bitcoin using forecasting (ARIMA and LSTM) models. The proposed study focuses on comparing the two very different models a statistical one (ARIMA) and deep learning one (LSTM) for the bitcoin price prediction.This project adopts an experimental research design, allowing for the development, evaluation and comparison of time-series and machine-learning model in the bases of performance and perfection.This project is made within the jupyter notebook.
 
 Here some information about the forecasting models:
+
 1.ARIMA:
   An ARIMA model, which stands for Autoregressive Integrated Moving Average, is a statistical technique used for analysing time series data. It's a powerful tool for understanding and forecasting trends in data that's collected over time. 
   Here's a breakdown of what ARIMA models are used for:
