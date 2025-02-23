@@ -1,2 +1,2 @@
-# BitcoinPricePrediction_Using_ARIMA_-_LSTM
+# BitcoinPricePrediction_Using_ARIMA_and_LSTM
 It is Comparative Research Project
